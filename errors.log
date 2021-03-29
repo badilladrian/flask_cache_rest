@@ -1,0 +1,35 @@
+2021-03-29 10:55:48,126 - file - DEBUG - Debug FILE
+2021-03-29 10:55:48,137 - werkzeug - INFO -  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2021-03-29 10:55:48,138 - werkzeug - INFO -  * Restarting with stat
+2021-03-29 10:55:48,348 - file - DEBUG - Debug FILE
+2021-03-29 10:55:48,356 - werkzeug - WARNING -  * Debugger is active!
+2021-03-29 10:55:48,365 - werkzeug - INFO -  * Debugger PIN: 275-345-698
+2021-03-29 10:56:13,772 - config - INFO - GET method is working
+2021-03-29 10:56:13,773 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 10:56:13] "[37mGET /api/v1/post-data/ HTTP/1.1[0m" 200 -
+2021-03-29 10:56:32,050 - config - INFO - Processing valid request
+2021-03-29 10:56:32,050 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 10:56:32] "[37mPOST /api/v1/post-data/ HTTP/1.1[0m" 200 -
+2021-03-29 10:56:34,181 - config - INFO - Processing valid request
+2021-03-29 10:56:34,181 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 10:56:34] "[37mPOST /api/v1/post-data/ HTTP/1.1[0m" 200 -
+2021-03-29 10:56:35,869 - config - INFO - Processing valid request
+2021-03-29 10:56:35,869 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 10:56:35] "[37mPOST /api/v1/post-data/ HTTP/1.1[0m" 200 -
+2021-03-29 10:56:37,203 - config - INFO - Processing valid request
+2021-03-29 10:56:37,203 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 10:56:37] "[37mPOST /api/v1/post-data/ HTTP/1.1[0m" 200 -
+2021-03-29 10:56:43,675 - config - ERROR - Processing is_malicious request
+2021-03-29 10:56:43,675 - config - ERROR - is_malicious = True
+2021-03-29 10:56:43,676 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 10:56:43] "[31m[1mPOST /api/v1/post-data/ HTTP/1.1[0m" 401 -
+2021-03-29 10:56:45,836 - config - ERROR - Processing is_malicious request
+2021-03-29 10:56:45,836 - config - ERROR - is_malicious = True
+2021-03-29 10:56:45,836 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 10:56:45] "[31m[1mPOST /api/v1/post-data/ HTTP/1.1[0m" 401 -
+2021-03-29 11:01:20,096 - config - ERROR - Processing is_malicious request
+2021-03-29 11:01:20,096 - config - ERROR - is_malicious = True
+2021-03-29 11:01:20,096 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 11:01:20] "[31m[1mPOST /api/v1/post-data/ HTTP/1.1[0m" 401 -
+2021-03-29 11:01:28,022 - config - INFO - Processing valid request
+2021-03-29 11:01:28,023 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 11:01:28] "[37mPOST /api/v1/post-data/ HTTP/1.1[0m" 200 -
+2021-03-29 11:01:29,163 - config - INFO - Processing valid request
+2021-03-29 11:01:29,164 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 11:01:29] "[37mPOST /api/v1/post-data/ HTTP/1.1[0m" 200 -
+2021-03-29 11:01:30,315 - config - INFO - Processing valid request
+2021-03-29 11:01:30,316 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 11:01:30] "[37mPOST /api/v1/post-data/ HTTP/1.1[0m" 200 -
+2021-03-29 11:01:31,053 - config - INFO - Processing valid request
+2021-03-29 11:01:31,054 - werkzeug - INFO - 127.0.0.1 - - [29/Mar/2021 11:01:31] "[37mPOST /api/v1/post-data/ HTTP/1.1[0m" 200 -
+2021-03-29 11:14:37,207 - config - INFO - Server running
+2021-03-29 11:14:37,243 - config - INFO - Server running

@@ -5,7 +5,7 @@
 * Move to the root folder
 * Create virtual environment (You can use `python3 -m venv venv`)
 * Active virtual environment
-* Install packages from requirements file (`pip install -r requirements.txt`)
+* Install dependencies w/ requirements.txt (`pip install -r requirements.txt`)
 * Run the project by (`python run.py`)
 
 The development server will be Up and running
