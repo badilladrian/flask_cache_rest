@@ -8,11 +8,11 @@
 * Install packages from requirements file (`pip install -r requirements.txt`)
 * Run the project by (`python run.py`)
 
-The development server will be run
+The development server will be Up and running
 
-Open your postman and do followings
+Open your postman or http client and do following:
 
-* Use this API endpoint for both GET & POST request: `http://127.0.0.1:8080/api/v1/post-data/`
+* API Endpoint GET & POST: `http://127.0.0.1:8080/api/v1/post-data/`
 
 ### GET request response:
 `
@@ -49,6 +49,7 @@ if is_malicious is false
 status code: 200
 
 ### Log file
-When server will be run, logger file named as `errors.log` will be created and all information will be logged
+When server will be runing, logger file will be created as `errors.log` with all information logged.
 
-Te have a look on log data, open errors.log file
+Te have a look on log data, open 
+errors.log 
